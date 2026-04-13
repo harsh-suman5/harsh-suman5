@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Harsh Suman, a developer who enjoys building things that actually work in the real world. I work across both full-stack development and data science, using the MERN stack for web apps and Python for machine learning and data analysis. I’ve built scalable applications, optimized APIs, and worked with real datasets to create predictive models.<br><br>Currently, I’m focused on improving my skills in AI/ML, backend systems, and writing cleaner, more efficient code. I like experimenting with new ideas, breaking things, and then figuring out how to make them better.<br><br>Always learning, always building 🚀<br>
+I’m Harsh Suman, an AI/ML developer who enjoys building models that actually work in the real world. I work across both full-stack development and data science, using the MERN stack for web apps and Python for machine learning and data analysis. I’ve built scalable applications, optimized APIs, and worked with real datasets to create predictive models.<br><br>Currently, I’m focused on improving my skills in AI/ML, backend systems, and writing cleaner, more efficient code. I like experimenting with new ideas, breaking things, and then figuring out how to make them better.<br><br>Always learning, always building 🚀<br>
 
 
 ## 🌐 Socials:
